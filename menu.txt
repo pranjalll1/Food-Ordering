@@ -1,3 +1,4 @@
 Pizza - Rs. 200
 Burger - Rs. 120
 Pasta - Rs. 180
+Biryani - Rs. 250
